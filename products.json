@@ -1,0 +1,82 @@
+[
+  {
+    "id": "round",
+    "name": "Лоток «Круг»",
+    "category": "decor",
+    "type": "Для мелочей",
+    "description": "Минималистичный лоток для ключей, украшений, наушников и других мелочей. Размер подтверждён по STL: 180 × 120 × 25 мм.",
+    "dimensions": "180 × 120 × 25 мм",
+    "price": 590,
+    "image": "assets/round_card.png",
+    "model": "assets/models/round.stl",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "hidden": false
+  },
+  {
+    "id": "phone",
+    "name": "Подставка для телефона",
+    "category": "decor",
+    "type": "Для телефона",
+    "description": "Компактная подставка для смартфона.",
+    "dimensions": "34,0 × 75,0 × 43,2 мм",
+    "price": 249,
+    "image": "assets/phone.webp",
+    "model": "assets/models/phone.stl",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "hidden": false
+  },
+  {
+    "id": "spiral",
+    "name": "Мини-горшок «Спираль»",
+    "category": "planters",
+    "type": "Для растений",
+    "description": "Миниатюрный горшок со спиральным рельефом.",
+    "dimensions": "85,5 × 80,0 × 85,5 мм",
+    "price": 490,
+    "image": "assets/spiral.webp",
+    "model": "assets/models/spiral.stl",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "hidden": false
+  },
+  {
+    "id": "pinecone",
+    "name": "Шишка — украшение",
+    "category": "decor",
+    "type": "Интерьерный декор",
+    "description": "Декоративная шишка для интерьера.",
+    "dimensions": "65,3 × 63,1 × 97,9 мм",
+    "price": 390,
+    "image": "assets/pinecone.webp",
+    "model": "assets/models/pinecone.stl",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "hidden": false
+  },
+  {
+    "id": "bag",
+    "name": "Органайзер «Пакет»",
+    "category": "decor",
+    "type": "Для канцелярии",
+    "description": "Органайзер для ручек в форме бумажного пакета.",
+    "dimensions": "77,0 × 76,2 × 99,9 мм",
+    "price": 390,
+    "image": "assets/bag.webp",
+    "model": "assets/models/bag.stl",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "hidden": false
+  }
+]
